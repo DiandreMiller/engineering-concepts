@@ -4,34 +4,24 @@
 
 ## **This repo will cover concepts such as:**
 
-- Request/ Response Cycle (What happens when the user types in a website)
-- CDN
-- DHCP
-- Edge Locations
-
-- OSI Model
-- TCPIP
-
+- Request/ Response Cycle (What happens when the user types in a website) ✅
 - GraphQL vs rest API
-
-- CAP Theorem
-- ACID for databases
-
 - Kubernetes
 - Load balancing
 - Auto scaling
-
+- CDN
+- DHCP
+- Edge Locations
+- OSI Model
+- TCPIP
+- CAP Theorem
+- ACID for databases
 - API gateway
 - DDOS
-
 - Encryption at rest vs Encrytion in transit
-
 - Middleware
-
 - Auxiliary Space vs Space Complexity
-
 - Memory
-
 - User Agent
 
 

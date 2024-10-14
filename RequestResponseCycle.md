@@ -10,7 +10,7 @@ When you type a website into an address bar, a lot of things happen that a lot o
 
 When you type in a website, the first thing that happens when you press enter on your keyboard, the browser parses (breaks down) the [URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL) (Uniform Resouce Locator), and  looks for the [domain name](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name) ex (google.com). Your browser checks your cache to see if the domain name exists. The cache for your browser stores copies of web pages, images, as well as other resources. The browser loads these resources from the cache instead of the downloading them again which speeds up load times. 
 
-If the domain name exists in your cache, it continues to the next step, if not, the browser sends a request to the (DNS)[https://www.fortinet.com/resources/cyberglossary/what-is-dns] (Domain Name System). If the domain is not found, an error will be returned to the user, if it exists, the DNS responds with an [IP address](https://www.whatismyip.com/) 
+If the domain name exists in your cache, it continues to the next step, if not, the browser sends a request to the [DNS](https://www.fortinet.com/resources/cyberglossary/what-is-dns) (Domain Name System). If the domain is not found, an error will be returned to the user, if it exists, the DNS responds with an [IP address](https://www.whatismyip.com/) 
 
 ## TCP/IP Agreement and Secure Connection
 
